@@ -33,5 +33,5 @@ Contents of the repositiory
 
  -- to reconstruct the file do as below
 
-	 $cd XORcipher
+	$cd XORcipher
 	$jar -cvmf manifest.mf XOR.jar XOREncryption.class
